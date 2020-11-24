@@ -1,7 +1,7 @@
 - ### 安装react-table
 
   ```js
-  npm install react-table -save
+  npm install r-table -save
   ```
 
 - [Demo](http://www.screenv.com/reacttable/index.html#/home/table)
@@ -9,7 +9,7 @@
 - ### 使用
 
   ```js
-  import {SelectTable} from "react-table";
+  import {SelectTable} from "r-table";
   import 'react-table/dist/index.css';
   <SelectTable columns={columns} data={data} menus={menus}></SelectTable>
   ```

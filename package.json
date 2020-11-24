@@ -1,0 +1,16 @@
+{
+  "name": "react-table",
+  "version": "1.0.0",
+  "description": "react table",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maixing/react-table.git"
+  },
+  "author": "maixing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maixing/react-table/issues"
+  },
+  "homepage": "https://github.com/maixing/react-table#readme"
+}

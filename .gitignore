@@ -10,7 +10,6 @@ package-lock.json
 bower_components
 
 # folder
-dist*
 _dist*
 dll
 .history

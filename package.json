@@ -1,11 +1,18 @@
 {
   "name": "screenv-table",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "react table",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maixing/react-table.git"
+  },
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-base-table": "^1.12.0",
+    "react-contextmenu": "^2.14.0",
+    "react-dom": "^16.9.0",
+    "xlsx": "^0.16.9"
   },
   "author": "maixing",
   "license": "MIT",

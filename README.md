@@ -16,19 +16,23 @@
   
 - ### 属性说明
 
-  - expandKey  #树结构展开key字段，默认是alarmTitle
+  ```js
+  expandKey  #树结构展开key字段，默认是alarmTitle
+  
+  menus #右键列表数据，格式为[{id:'',name:''}]
+  
+  onClickEvent # 鼠标点击和双击事件 (evt,type) type:onClick||onDoubleClick
+  
+  onMouseEvent: # 鼠标enter,Leave事件，默认为(evt,type) type:onMouseEnter||onMouseLeave
+  
+  onSelectEvent: # 多选框选择事件 (selects) 行数据集合
+  
+  onMenuEvent # 右键事件(evt,data) data:右键数据项
+  
+  staticLabel #左上角展示文字 默认是活动告警
+  ```
 
-  - menus #右键列表数据，格式为[{id:'',name:''}]
-
-  - onClickEvent # 鼠标点击和双击事件 (evt,type) type:onClick||onDoubleClick
-
-  - onMouseEvent: # 鼠标enter,Leave事件，默认为(evt,type) type:onMouseEnter||onMouseLeave
-
-  - onSelectEvent: # 多选框选择事件 (*selects*) 行数据集合
-
-  - onMenuEvent # 右键事件(evt,data) data:右键数据项
-
-  - staticLabel #左上角展示文字 默认是活动告警、
+  
 
 - ### 数据项说明
 

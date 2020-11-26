@@ -1,6 +1,6 @@
 {
   "name": "screenv-table",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "react table, 基于react-base-table",
   "main": "index.js",
   "repository": {

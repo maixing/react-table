@@ -1,10 +1,10 @@
-- ### 安装react-table
+- ### 安装screenv-table
 
   ```js
   npm install screenv-table -save
   ```
 
-- [Demo](http://www.screenv.com/reacttable/index.html#/home/table)
+- [预览](http://www.screenv.com/reacttable/index.html#/home/table)
 
 - ### 使用
 

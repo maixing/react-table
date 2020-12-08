@@ -57,6 +57,38 @@
         }
     ]
     ```
+    
+  - alarmLevels
+  
+    ```js
+  alarmLevels: {
+      level1: {
+        label: '一级告警',
+  	  value: '1',
+  	  color: '#ff6464'
+      },
+      level2: {
+        label: '二级告警',
+  	  value: '2',
+  	  color: '#ffa85a'
+      },
+      level3: {
+        label: '三级告警',
+  	  value: '3',
+  	  color: '#ffec6f'
+      },
+      level4: {
+        label: '四级告警',
+  	  value: '4',
+  	  color: '#8bbcfe'
+      },
+      level5: {
+        label: '五级告警',
+  	  value: '5',
+  	  color: '#8bbddd'
+      },
+    },
+    ```
   
   - filters
   
